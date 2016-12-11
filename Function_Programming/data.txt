@@ -1,0 +1,6 @@
+Puneet Aggarwal    laptop    1000    2
+Puneet Aggarwal    Surface Studio    2000    1
+Puneet Aggarwal    pixel    500    3
+Rhythm Mehra    MAC    2000    2
+Rhythm Mehra    pixel    500    3
+Rhythm Mehra    painting by puneet    1000    5
